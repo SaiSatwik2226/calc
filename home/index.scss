@@ -1,0 +1,62 @@
+body{
+    padding: 0px;
+    align-self: center;
+    text-align:center;
+}
+
+.console {
+    div {
+        button{
+            height: 50px;
+            width: 150px;
+            padding: 30px;
+            border: 5px;
+            text-align: center;
+            border: 1px;
+            border-color: black;
+        }
+        padding: 3px;
+    }
+}
+
+#center {
+    align-content: center;
+}
+
+#output {
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-top: 5px;
+    color: darken($color: #000000, $amount: 0);
+    text-align: left;
+}
+
+#solution {
+    height: 50px;
+    width: 900px;
+    text-align: right;
+    padding: 5px;
+    font-size: 40px;
+}
+
+#finalSolution {
+    font-size: 20px;
+    text-align: right;
+    height: 60px;
+    width: 900px;
+    padding: 0px;
+    padding-top: 5px;
+    padding-right: 20px;
+}
+
+#solutionBox {
+    height: 160px;
+    width: 900px;
+    border: darken($color: #000000, $amount: 0);
+    border-radius: 10px;
+    background-color: gainsboro;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+}

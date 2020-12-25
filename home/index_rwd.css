@@ -1,0 +1,62 @@
+body {
+  padding: 0rem;
+  align-self: center;
+  text-align: center;
+}
+
+.console div {
+  padding: 3rem;
+}
+.console div button {
+  height: 50rem;
+  width: 150rem;
+  padding: 30rem;
+  border: 5rem;
+  text-align: center;
+  border: 1rem;
+  border-color: black;
+}
+
+#center {
+  align-content: center;
+}
+
+#output {
+  font-size: 20rem;
+  font-weight: bold;
+  padding-left: 30rem;
+  padding-top: 5rem;
+  color: black;
+  text-align: left;
+}
+
+#solution {
+  height: 50rem;
+  width: 900rem;
+  text-align: right;
+  padding: 5rem;
+  font-size: 40rem;
+}
+
+#finalSolution {
+  font-size: 20rem;
+  text-align: right;
+  height: 60rem;
+  width: 900rem;
+  padding: 0rem;
+  padding-top: 5rem;
+  padding-right: 20rem;
+}
+
+#solutionBox {
+  height: 160rem;
+  width: 900rem;
+  border: black;
+  border-radius: 10rem;
+  background-color: gainsboro;
+  align-self: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*# sourceMappingURL=index_rwd.css.map */
